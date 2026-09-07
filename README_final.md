@@ -3,7 +3,7 @@
 > 🚀 **An interactive web dashboard for Control Systems engineering. Analyze N-th order transfer functions, tune live compensators, and design state-space controllers in real-time.**
 
 The **Control Systems Master Workspace** is a reactive, no-code engineering solver. Drop in any continuous-time transfer function (1st to N-th order) and instantly generate Bode plots, extract precise time/frequency metrics, verify controllability, and calculate state-feedback gain matrices. Whether you are placing dominant poles or tuning a live Lead/Lag compensator, the math and visuals update in real-time.
-
+[LIVE DEMO](https://control-system-analyzer-emasa35nj2wtg3s8hxuvds.streamlit.app/)
 ---
 
 ## ✨ Key Features
@@ -45,6 +45,7 @@ Make sure you have Python 3.8 or newer installed on your machine. You will also 
    streamlit run app.py
    ```
    The dashboard will automatically open in your default browser at `http://localhost:8501`.
+   [LIVE DEMO](https://control-system-analyzer-emasa35nj2wtg3s8hxuvds.streamlit.app/)
 
 ---
 
